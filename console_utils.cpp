@@ -1,7 +1,7 @@
 /*
  * CppTUI - Lightweight Text-based User Interface library for C++
  * 
- * Originally developed by ANTI-TERROR Studio (https://github.com/antiterror)
+ * Originally developed by ANTI-TERROR Studio (https://github.com/UbicaTravy/CppTUI/tree/v0.1_BETA-TEST)
  * 
  * License: This code is provided as-is under MIT License.
  * You can freely use, modify, and distribute it in your projects,

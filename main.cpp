@@ -5,7 +5,7 @@
  * You can study, modify, and use this code in your projects,
  * even in commercial applications.
  * 
- * Original library by ANTI-TERROR Studio (https://github.com/antiterror)
+ * Original library by ANTI-TERROR Studio (https://github.com/UbicaTravy/CppTUI/tree/v0.1_BETA-TEST)
  */
 
 #include "console_utils.h"
